@@ -1,0 +1,15 @@
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\bin\Debug\net6.0\LAB5HIA.exe
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\bin\Debug\net6.0\LAB5HIA.deps.json
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\bin\Debug\net6.0\LAB5HIA.runtimeconfig.json
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\bin\Debug\net6.0\LAB5HIA.dll
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\bin\Debug\net6.0\LAB5HIA.pdb
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\obj\Debug\net6.0\LAB5HIA.csproj.AssemblyReference.cache
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\obj\Debug\net6.0\LAB5HIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\obj\Debug\net6.0\LAB5HIA.AssemblyInfoInputs.cache
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\obj\Debug\net6.0\LAB5HIA.AssemblyInfo.cs
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\obj\Debug\net6.0\LAB5HIA.csproj.CoreCompileInputs.cache
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\obj\Debug\net6.0\LAB5HIA.dll
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\obj\Debug\net6.0\refint\LAB5HIA.dll
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\obj\Debug\net6.0\LAB5HIA.pdb
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\obj\Debug\net6.0\LAB5HIA.genruntimeconfig.cache
+C:\Users\Timur\RiderProjects\LAB5HIA\LAB5HIA\obj\Debug\net6.0\ref\LAB5HIA.dll
